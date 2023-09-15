@@ -9,7 +9,8 @@ root.render(
   <React.StrictMode>
     <App />
     lorem ipsum
-    
+    naz sph
+
   </React.StrictMode>
 );
 
