@@ -9,6 +9,7 @@ root.render(
   <React.StrictMode>
     <App />
     lorem ipsum
+    
   </React.StrictMode>
 );
 
